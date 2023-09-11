@@ -1,4 +1,5 @@
 # odin-recipes
+</div>
 HTML website showing my favorite recipes
 </div>
 My first project worked on by myself! Super excited!
