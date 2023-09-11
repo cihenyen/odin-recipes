@@ -1,2 +1,2 @@
 # odin-recipes
-HTML website for showing recipes I'm intrested in 
+HTML website for showing recipes I'm interested in 
